@@ -18,8 +18,12 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 ## 🚀 Let's Collaborate
 I'm always open to new projects and collaborations. Feel free to reach out if you have an interesting idea or project in mind!
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshay-sharma-606419297/) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaysharma31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshay-sharma-606419297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaysharma31" height="30" width="40" /></a>
+<a href="https://instagram.com/abhayshah31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaysharma31" height="30" width="40" /></a>
+</p>
 
 
 # 📊 GitHub Stats:
