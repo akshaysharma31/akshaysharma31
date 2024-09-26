@@ -7,7 +7,7 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 
 ## 📂 My Repositories
-- [Java Learning Repository](): A comprehensive collection of Java topics and examples.
+- [Java Learning Repository](https://github.com/akshaysharma31/JAVA-): A comprehensive collection of Java topics and examples.
 - Other repositories showcasing my projects and contributions.
 
 ## 🌱 Currently Learning
