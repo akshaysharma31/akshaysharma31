@@ -20,7 +20,6 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 - [**LinkedIn**](https://www.linkedin.com/in/akshay-sharma-606419297/)  
 - [**Email**](akshu.31082005@gmail.com)  
-- [**My LeetCode Profile**](https://leetcode.com/u/Akshu0031/)
 
 ## 🚀 Let's Collaborate
 I'm always open to new projects and collaborations. Feel free to reach out if you have an interesting idea or project in mind!
