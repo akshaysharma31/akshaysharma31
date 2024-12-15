@@ -2,8 +2,11 @@
 
 ## About Me
 I'm a passionate developer currently diving deep into Java and documenting my journey here on GitHub. I enjoy learning new technologies and applying them to solve real-world problems.
-# 💻 Tech Stack:
- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 🌟 Skills
+
+- **Languages:** Java  
+- **Technologies:** Git, GitHub, IntelliJ IDEA, VS Code  
+- **Interests:** Object-Oriented Programming, Data Structures  
 
 
 ## 📂 My Repositories
@@ -12,8 +15,12 @@ I'm a passionate developer currently diving deep into Java and documenting my jo
 
 ## 🌱 Currently Learning
 - Advanced Java concepts
-  
 
+  ## 📬 How to Reach Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/akshay-sharma-606419297/)  
+- [**Email**](akshu.31082005@gmail.com)  
+- [**My LeetCode Profile**](https://leetcode.com/u/Akshu0031/)
 
 ## 🚀 Let's Collaborate
 I'm always open to new projects and collaborations. Feel free to reach out if you have an interesting idea or project in mind!
